@@ -1,4 +1,4 @@
-# Hi, I'm a Student 
+# Hi, I'm a Student!
 
 * Student learning programming
 * Currently learning and building projects
